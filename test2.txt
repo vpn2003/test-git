@@ -1,2 +1,2 @@
 This is another file.
-Here are some few changes made to this file. 
+Another line has been added now.
